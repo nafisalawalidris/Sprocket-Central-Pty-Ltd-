@@ -52,7 +52,7 @@ The analysis provides valuable insights into customer behavior, segmentation, an
 This is an open-source project, and contributions are welcome. If you have any suggestions, improvements, or additional insights, feel free to submit a pull request.
 
 ## Author
-This project was made by ### Nafisa Lawal Idris ###. You can contact me at nafisaidris413@gmail.com
+This project was made by **Nafisa Lawal Idris**. You can contact me at nafisaidris413@gmail.com
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
