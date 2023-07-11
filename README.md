@@ -1,3 +1,5 @@
+![Project](https://github.com/elfeenah/Sprocket-Central-Pty-Ltd-/assets/111433655/44fdd47a-5793-48a1-b2b9-36f34a738ce4)
+
 # Sprocket Central Pty Ltd - Analysis Dashboard
 
 ## About the Project
